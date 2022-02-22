@@ -1,0 +1,1922 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The whole duty of man in all his stages in a plain and familiar heroick verse, with variety of cuts proper to the several chapters thereof, with several private prayers and Thanksgivings annexed to it, both for the pleasure and benefit of youth / by W. Beck.</title>
+            <author>Beck, W. (William)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27229</idno>
+            <idno type="STC">Wing B1650</idno>
+            <idno type="STC">ESTC R28899</idno>
+            <idno type="EEBO-CITATION">10776028</idno>
+            <idno type="OCLC">ocm 10776028</idno>
+            <idno type="VID">45812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1396:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The whole duty of man in all his stages in a plain and familiar heroick verse, with variety of cuts proper to the several chapters thereof, with several private prayers and Thanksgivings annexed to it, both for the pleasure and benefit of youth / by W. Beck.</title>
+                  <author>Beck, W. (William)</author>
+               </titleStmt>
+               <extent>48 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by J. Bradford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Has illustrated half-title page.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conduct of life.</term>
+               <term>Devotional literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Monica Tsuneishi</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Monica Tsuneishi</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="engraved_title_page">
+            <pb facs="tcp:45812:1"/>
+            <pb facs="tcp:45812:1"/>
+            <p>THE WHOLE DUTY OF MAN, In all his Stages, in a plain and familiar He<g ref="char:EOLhyphen"/>roick <hi>Verſe,</hi> with Va<g ref="char:EOLhyphen"/>riety of Cuts proper to the ſeveral Chapters thereof, <hi>&amp;c.</hi>
+            </p>
+            <p>By <hi>W. Beck,</hi> M. A.</p>
+            <p>Fitted for the Plea<g ref="char:EOLhyphen"/>ſure and Benefit of YOUTH.</p>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>J. Bradford</hi> in <hi>Little Britain.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:45812:2"/>
+            <head>ADVERTISEMENTS. BOOKS Printed and Sold by <hi>J. Bradford.</hi>
+            </head>
+            <p n="1">1. YOuth's Travels: Or, The Vanity of Mans Age. Repreſented in Seven ſeveral Stages thereof, from his Birth to his Death. With variety of Pictures, expoſing the Vanities and Follies of this Age. By <hi>A. F.</hi> Price <hi>Two-Pence.</hi>
+            </p>
+            <p n="2">2. <hi>A Mirror for Atheiſts;</hi> wherein they may plainly ſee their Prodigious Follies, Vaſt Extravagancies, No<g ref="char:EOLhyphen"/>torious Impieties and Abſurdities: containing a com<g ref="char:EOLhyphen"/>pendious account of the egregious vicious Life, and Emi<g ref="char:EOLhyphen"/>nently and Sincerely Penitent Death of <hi>John</hi> Earl of <hi>Rocheſter:</hi> Wherein is briefly receited his Diſputes and Arguments againſt God and Religion, as the ſame were uſed at ſeveral Meetings. Alſo, the manner of his wonderful Converſion, and his Godly Expreſſions du<g ref="char:EOLhyphen"/>ring his Laſt Sickneſs. Abſtracted from the Remarks of the Right Reverend Dr. <hi>Gilbert Burnet.</hi> Price Sticht in Blue Paper, Two Pence.</p>
+            <p n="3">3. <hi>The Father's Blesſing,</hi> Penn'd for the Inſtruction of his Children. With a Paraphraſe upon the <hi>Lord's Prayer.</hi> With Motives to Prayer. By <hi>William Jole,</hi> Miniſter of <hi>Sarrat</hi> in <hi>Hartfordſhire.</hi> Price Two-Pence.</p>
+            <p n="4">4. A Choice <hi>Drop of Honey</hi> from the Rock <hi>Chriſt:</hi> Or a ſhort Word of Advice to all Chriſtians; in order to a thorough Reformation. Price ſtitcht <hi>Two Pence.</hi>
+            </p>
+            <p n="5">5. <hi>The Triumph of Faith manifeſted to the World:</hi> Or, <hi>Abrah<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> offering up his Son <hi>Iſaac,</hi> as a ſweet Burning Sacrifice upon Mount <hi>Moriah</hi> to the Lord. Being a Dia<g ref="char:EOLhyphen"/>logue between <hi>Abraham, Iſaac,</hi> and the <hi>Angel</hi> that ſta<g ref="char:EOLhyphen"/>ved his Hand from Execution. With a large Cut to it. Price <hi>One Penny.</hi>
+            </p>
+            <p n="6">6. A Dialogue between a <hi>Blind Man</hi> and <hi>Death;</hi> By <hi>Richard Standfaſt,</hi> late Miniſter of <hi>Chriſt-Church</hi> in the City of <hi>Briſtol.</hi> Alſo the Great Aſſize; or Chriſts Cer<g ref="char:EOLhyphen"/>tain and Sudden Appearance to Judgment. Price 1. <hi>d.</hi>
+            </p>
+            <p n="7">7. The <hi>Grand Queſtion Reſolved,</hi> What we muſt do to be Saved: Being Inſtructions for a Holy Life. By Dr. <hi>Burnet.</hi> Price Sticht <hi>Two Pence.</hi>
+            </p>
+            <pb facs="tcp:45812:2"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:45812:3"/>
+            <pb facs="tcp:45812:3" rendition="simple:additions"/>
+            <p>THE Whole Duty OF MAN, In all his Stages, in a plain and Familiar Heroick <hi>Verſe;</hi> With Variety of Cuts proper to the ſeveral Chapters thereof.</p>
+            <p>With ſeveral Private <hi>Prayers</hi> and <hi>Thanks<g ref="char:EOLhyphen"/>givings</hi> annexed to it, both for the Plea<g ref="char:EOLhyphen"/>ſure and Benefit of Youth.</p>
+            <p>By <hi>W. Beck,</hi> M. A.</p>
+            <q>
+               <bibl>
+                  <hi>Prov. 22.6.</hi>
+               </bibl>
+               <p>Train up a Child in the Way he ſhould go, and when he is Old he will not depart from it.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>J. Bradford,</hi> in <hi>Little Britain,</hi> the Corner Houſe right againſt the Pump, 1700.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:45812:4"/>
+            <head>
+               <hi>A PREFACE.</hi> To the Good and Honourable, But more Particularly <hi>The Courteous READER.</hi>
+            </head>
+            <p>SInce this Renowned Book has been by ſome, in part impe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fectly turned into Lyrick, or Jam<g ref="char:EOLhyphen"/>beck Verſe; ſo that I thought it neceſſary to give you it compleat i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Heroick:</hi> And ſeeing every Body now adays ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an Inclination either to Read or Write <hi>Verſes,</hi> and ſome by an unhappy Skill that way, taking the advantage of the general humour, have exerciſed their abuſed parts in the recommending of Vice with all the flouriſh of Wit; adding to the natural propenſity to ſin, the ſweet taking Seduce<g ref="char:EOLhyphen"/>ments of <hi>Poetry;</hi> but ſince the Contagion rather ſpreads than decreaſes, and becauſe it becomes me to hope, that many rather love the <hi>Vice</hi> for the ſake of the <hi>Verſe,</hi> than the <hi>Verſe</hi> for the ſake of <hi>Sin.</hi> Therefore I thought it not unworthy the Cha<g ref="char:EOLhyphen"/>racter of a <hi>Chriſtian,</hi> nor beſides, my duty as ſuch (for the Reformation of Manners in <hi>Youth</hi>) to make, and humbly preſent you with this little Ver<g ref="char:EOLhyphen"/>ſion of <hi>The Whole Duty of Man,</hi> in a plain and familier dreſs, to be got by Heart by the Ignorant, being divided into Thirteen Chapters, one quarter of which being learned every <hi>Sunday;</hi> the Whole in one Year may be compaſſed: And it is
+<pb facs="tcp:45812:4"/> meaſured out in <hi>Verſe</hi> only to make it go down the ſmoothlier, and ſtick the better upon the Memory: for as Verſe has been a great occaſion of the breach of moſt Duties contained herein, and a means of drawing too many from performance; ſo I hope this may and will be as prevalent for the reclaiming as many, ſince according to the Poet,
+<q>
+                  <l>A Verſe may find him whom a Sermon flies,</l>
+                  <l>And turn Delight into a Sacrifice.</l>
+               </q>
+            </p>
+            <p>So if all Dignity, and Renown, and Parts, and <g ref="char:V">Ʋ</g>nderſtanding of Birth, and Fortune, would but freely and conſpicuouſly offer themſelves for Patterns of Education and Converſation, they muſt, and would undoubtedly entice and make others to be good: and the Honour of our Religion would ſoon be retrieved and brought again into Credit, and our Off-ſpring be as promiſing and hopeful as our de<g ref="char:EOLhyphen"/>ceaſed and much Lamented <hi>Duke.</hi> But ſince that there are too many Proud, Covetous and Malicious <hi>Pluraliſts;</hi> and alſo incroaching and intruding <g ref="char:V">Ʋ</g>nnaturalized Foreigners, which having ingroſſed the Inheritance, being more for the Fleece than the Flock, Lording over it. So that I as well as others in this Iron Age, having nothing to ſupport us but a feeble Quill, are almoſt ready to be Interred in the Ru<g ref="char:EOLhyphen"/>ins of a low Fortune; yet being deſirous of giving a publick Teſtimony of the value I have for all that are good, and more particularly for you which ſoars above the reſt, being unbyaſſed by the Cuſtomary Opinion of the World, and ſo far from believing
+<pb facs="tcp:45812:5"/> any to be undeſerving, becauſe unfortunate, that their very Indigency in a great meaſure entitules them to your Protection.</p>
+            <p>So humbly beſeeching to accept of my weak En<g ref="char:EOLhyphen"/>deavours, Prayers, and Good Wiſhes, in reliance <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n your Goodneſs, I aſſume the boldneſs to ſubſcribe my Self,</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt Humble and Devoted Servant,</hi> Will.—Beck.</signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>THe Author (being Maſter of Arts of a long ſtanding, now either at his Lodgings at the <hi>Kings-Head,</hi> and <hi>Grammar</hi>-School in <hi>Jermain-ſtreet,</hi> St. <hi>James</hi>'s; or at any ones own Houſe, if deſired) doth, and will in a few Years exactly, tho' not pedantickly, teach Young Ladies, and Gentlemen the Tongues and Sciences; he having lately contrived and made a Compendious, yet exact <hi>Engliſh Accidence, Grammar,</hi> and <hi>Rhetorick,</hi> &amp;c. By which any of an ordinary capacity, with the Author's aſſiſtance, without a Miracle, in a few Months may learn (that which is ſo much wanting and deſired to accompliſh La<g ref="char:EOLhyphen"/>dies) <hi>viz.</hi> to Write True <hi>Engliſh,</hi> and good Senſe either with, or without the <hi>Latin</hi> Tongue. The <hi>Accidence</hi> he promiſes (God willing) to publiſh the beginning of the New Year. But the other will be dictated only to thoſe that can write, to be got by Heart againſt the next Day.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:45812:5"/>
+            <head>THE Whole Duty of Man, <hi>&amp;c.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAPTER I.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> The Neceſſity of caring for the Soul. <hi>(2.)</hi> The Worth of the Soul. <hi>(3.)</hi> The Miſery of the Soul. <hi>(4.)</hi> The dan<g ref="char:EOLhyphen"/>ger of the Loſs of the Soul.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of angel flying over flaming mouth</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>THE chief Intent of this <hi>Book</hi> is to ſhow,</l>
+                  <l>Thoſe things which each Perſon is now to do,</l>
+                  <l>Being in as plain and familiar way,</l>
+                  <l>That <hi>Old</hi> and <hi>Young</hi> ſhould never go aſtray,</l>
+                  <pb n="8" facs="tcp:45812:6"/>
+                  <l>And in the end of all moſt happy be,</l>
+                  <l>And from <hi>Eternal Burnings</hi> then ſet free.</l>
+                  <l>So to be happy let all Mankind ſtrive</l>
+                  <l>To run the Race of <hi>Vertue</hi> whilſt alive,</l>
+                  <l>And practiſe only what's herein laid down,</l>
+                  <l>That after <hi>Death</hi> he may receive the Crown</l>
+                  <l>That's glorious, and of immortal weight,</l>
+                  <l>Which God doth give to thoſe that lives the height</l>
+                  <l>Of this their <hi>Duty,</hi> and likewiſe do run</l>
+                  <l>The Race before them that is now begun.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>How noble alſo is the <hi>Soul</hi> of <hi>Man,</hi>
+                  </l>
+                  <l>He ought therefore to take what care he can</l>
+                  <l>Of it, being ſo precious, and ſo dear,</l>
+                  <l>Seeing God's lovely Image it does bear,</l>
+                  <l>He breathing into Man the Breath of Life,</l>
+                  <l>Which muſt endure in ſpight of <hi>Satan</hi>'s Strife,</l>
+                  <l>Being ſo good, ſo pure, and excellent,</l>
+                  <l>It muſt remain when Ages all are ſpent.</l>
+                  <l>So like to <hi>God</hi> it is, being made to be</l>
+                  <l>Bleſſed with him to all Eternity.</l>
+                  <l>Why do we then ſuch noble Souls defile,</l>
+                  <l>As with the ſplendor of this World beguile,</l>
+                  <l>And with all foul, and ſad polluted Sin,</l>
+                  <l>Let e'en the dreadful'ſt <hi>Foes</hi> to enter in:</l>
+                  <l>Pray then ſlight <hi>Worldly Wealth,</hi> and <hi>Honours</hi> too,</l>
+                  <l>And <hi>Satan</hi>'s gilded Baits, which will undo.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>How many Men now ſtand in greateſt fear,</l>
+                  <l>Of keeping, and of loſing Treaſure here,</l>
+                  <l>Which will not ſpare to be at any Charges</l>
+                  <l>To keep a float theſe their crazy Barges.</l>
+                  <l>For if an Eye, or any part endure</l>
+                  <l>Aching, or Pain, they ſtreight ſeek for a Cure;</l>
+                  <l>As firſt to know the Cauſe of the Diſeaſe,</l>
+                  <l>And then what things can Cure; or give them eaſe;</l>
+                  <l>But why ſhould any take ſo great a car<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Of <hi>Body</hi> more than of his <hi>Soul</hi> moſt dear?</l>
+                  <l>Which is of purer Eſſence, and by Birth</l>
+                  <l>Innocent; but the other's from the Earth,</l>
+                  <pb n="9" facs="tcp:45812:6"/>
+                  <l>Baſe, and corrupt, whoſe Loſs ſome more condole</l>
+                  <l>Here then the better part their precious Soul</l>
+                  <l>Which never can fade, periſh, or decay,</l>
+                  <l>Tho' Satan it invade, 'twill force its way:</l>
+                  <l>But who can dwell in that <hi>Eternal Fire,</hi>
+                  </l>
+                  <l>Where is not granted them the leaſt Deſire,</l>
+                  <l>Either of aſſwaging preſent pain, or grief,</l>
+                  <l>Or any to come to for their relief,</l>
+                  <l>But there to languiſh, and therein to lie,</l>
+                  <l>And burn in <hi>Flames</hi> to all Eternity:</l>
+                  <l>And ſince we can't one Spark of Fire endure,</l>
+                  <l>Should on our tender Bodies lie, be ſure</l>
+                  <l>W'had better to our God betimes return,</l>
+                  <l>Than evermore in ſcorching Flames to burn.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>The <hi>World,</hi> the <hi>Fleſh,</hi> and <hi>Devil,</hi> all do ſtrive</l>
+                  <l>Poor Man of Happineſs for to deprive.</l>
+                  <l>Oh then let all call on that mighty Power</l>
+                  <l>For Grace, &amp; ſtrength, 'gainſt thoſe which would devour</l>
+                  <l>Their precious Souls, and let them always ſtand</l>
+                  <l>Faſt, whiles Breath, obeying God's juſt command:</l>
+                  <lg>
+                     <l>For he has always promiſed to thoſe</l>
+                     <l>Which keep'm, and on <hi>Providence</hi> repoſe,</l>
+                     <l>To give them that good thing which they have choſe.</l>
+                  </lg>
+                  <l>Then for your holy help, learn, and read o'er</l>
+                  <l>This foll'wing <hi>Book,</hi> your Sins for to diſco'er,</l>
+                  <l>And practiſe to be happy for your part,</l>
+                  <l>The whole which done, to others it impart;</l>
+                  <l>For Verſe may find him whom a Sermon flies,</l>
+                  <l>And turn delight into a Sacrifice,</l>
+                  <l>And make him open, tho' h' has ſhut his Eyes.</l>
+               </lg>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="10" facs="tcp:45812:7"/>
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> Of the Light of Nature; and <hi>(2.)</hi> by the Light of the Scriptures; wherein three great Branches of our Duty's contained, <hi>(1.)</hi> To God, as the belief of his Being. <hi>(2.)</hi> Of the Trinity. <hi>(3.)</hi> God's Attributes. <hi>(4.)</hi> The Immor<g ref="char:EOLhyphen"/>tality, and Worth of the Soul. <hi>(5.)</hi> Of the Reſurrection, and future ſtate. <hi>(6.)</hi> Of God's Commands. <hi>(7.)</hi> Faith in Chriſt. <hi>(8.)</hi> In the Holy Scriptures. <hi>(9.)</hi> In the Threatnings and Promiſes there. <hi>(10.)</hi> The Duty of Love to God. <hi>(11.)</hi> Of Fear to God. <hi>(12)</hi> Of truſt in God. <hi>(13.)</hi> Of Care.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of woman sitting and reading</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>THe Light of Nature doth us plainly tell,</l>
+                  <l>Not to do things which leads us down to <hi>Hell.</hi>
+                  </l>
+                  <l>So let the <hi>Heathens</hi> now Examples be,</l>
+                  <l>Which uſe the <hi>Moral Law,</hi> yea, more than we.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="11" facs="tcp:45812:7"/>
+                  <head>(2.)</head>
+                  <l>But ſince the Light of <hi>Scripture</hi> doth exceed</l>
+                  <l>That Light, as <hi>Chriſtians,</hi> we do always need;</l>
+                  <lg>
+                     <l>Whoſe Precept's good, if they be well applyed,</l>
+                     <l>Will fill the Soul with Heavenly Food beſide,</l>
+                     <l>And it to Heaven will moſt ſurely guide.</l>
+                  </lg>
+                  <l>Tho' Chriſt has to Mankind purchaſed</l>
+                  <l>Heaven, and Happineſs; yet there is need</l>
+                  <l>Of ſomething on our part ſtill to be done,</l>
+                  <l>Before that conquer'd Country be our own,</l>
+                  <l>Or e'er we can that higheſt Bliſs attain,</l>
+                  <l>And taſt the Comforts there, and there remain;</l>
+                  <l>For Prophets, and Apoſtles, do command</l>
+                  <l>Us to live Godly, and t'our Promiſe ſtand,</l>
+                  <l>Our Duty to perform to God, and Man</l>
+                  <l>To be as juſt, and right'ous as we can.</l>
+               </lg>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>Would we be ſaved? then we muſt believe</l>
+                  <l>There is a God did all things being give,</l>
+                  <l>That made the World, and ſtretched out the Sky,</l>
+                  <l>That's a Spirit, infinite, Almighty.</l>
+                  <l>Tho' Perſons Three, yet n'other God but one,</l>
+                  <l>Since all Perfection is in him alone.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Believe you muſt the bleſſed Trinity.</l>
+                  <l>That in the <hi>Godhead</hi> there are Perſons three,</l>
+                  <l>The eternal, Son and Holy Ghoſt,</l>
+                  <l>Who made, redeemed, ſaved what Sin had loſt.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>That God's gracious, a Spirit, juſt and wiſe,</l>
+                  <l>Too pure and holy for our mortal Eyes</l>
+                  <l>To view, all things ruling by h's Providence,</l>
+                  <l>Is every where, knowing the inmoſt ſenſe</l>
+                  <l>Of every Heart, and ſecret Thoughts of Men</l>
+                  <l>Yea, more, and better than any of them.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>Believe you muſt a <hi>Soul</hi> within your Breaſt</l>
+                  <l>There is, which will be miſerable, or bleſt,</l>
+                  <l>That after this Life will for ever laſt,</l>
+                  <l>Then endleſs Sorrows, or ſuch Joys muſt taſt</l>
+                  <pb n="12" facs="tcp:45812:8"/>
+                  <l>In t'other World, while we are in this;</l>
+                  <l>Nothing of more value w'have than 'tis;</l>
+                  <l>Therefore it is our Duty whilſt we re here,</l>
+                  <l>To make Salvation ſtill our chiefeſt care.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5.)</head>
+                  <l>For why, our Bodies muſt not always rot</l>
+                  <l>In this dull Earth, as things by God forgot;</l>
+                  <l>No, no, be ſure they all again muſt riſe,</l>
+                  <l>And ſee as <hi>Job</hi> ſaith, with theſe very Eyes,</l>
+                  <l>At the Laſt Judgment; then the trembling Soul</l>
+                  <l>And Body ſhall be ſaved, or periſh whole;</l>
+                  <l>For from <hi>Hell</hi>'s Furnace there'll be no return,</l>
+                  <l>They which go there, muſt then for ever burn.</l>
+                  <l>Now then, attend, conſider well the caſe,</l>
+                  <l>As to avoid the <hi>Torments</hi> of that <hi>place.</hi>
+                  </l>
+                  <l>By <hi>Faith</hi> it muſt be done with fervent Love</l>
+                  <l>To <hi>Chriſt,</hi> which by our Actions you muſt prove.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6.)</head>
+                  <l>If <hi>Happy</hi> you would be, there's no'ther way</l>
+                  <l>Than to Love <hi>God,</hi> and his <hi>Commands</hi> obey,</l>
+                  <l>And to do theſe, 'tis fitting that you know</l>
+                  <l>What his W<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll is, which now remains to ſhow.</l>
+                  <l>Now the firſt Cauſe of all our Miſery,</l>
+                  <l>Was <hi>Adam</hi>'s Sin, for which he was to dye,</l>
+                  <l>And a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l his Off-ſpring; but th' exceeding love</l>
+                  <l>Of Chriſt did interpoſe, and Death remove:</l>
+                  <l>He on himſelf our Condemnation took,</l>
+                  <l>Diſcharged all Debt, and croſſed the fatal Book,</l>
+                  <l>So now if you'l Repent, and ſo but yield</l>
+                  <l>Sin to forſake, you'l have your Pardon ſeal'd.</l>
+               </lg>
+               <lg n="7">
+                  <head>(7.)</head>
+                  <l>If you be but ſincere, and do relie</l>
+                  <l>On <hi>Chriſt</hi> by <hi>Faith,</hi> who for all Sins did dye:</l>
+                  <l>This do you muſt, or elſe that weighty guilt</l>
+                  <l>Of <hi>Adam,</hi> all your own, and Chriſt's Blood ſpilt,</l>
+                  <l>Will ſink you but the lower into <hi>Hell,</hi>
+                  </l>
+                  <l>In Everlaſting <hi>Torments</hi> for to dwell;</l>
+                  <l>For Chriſts the only Perſon that can can ſave</l>
+                  <l>Your Soul from th' ſecond Death, ſo as to have</l>
+                  <pb n="13" facs="tcp:45812:8"/>
+                  <l>A place, yea, far above the Starry Sky,</l>
+                  <l>In Joys to live, which ne'er was ſeen by Eye.</l>
+                  <l>So now what Chriſt commands, you muſt obey,</l>
+                  <l>Thanking Infinite Goodneſs, that you may</l>
+                  <l>So happy be, <hi>Faith</hi> being the firſt <hi>Command</hi>
+                  </l>
+                  <l>That is enjoyned; ſee to it then you ſtand.</l>
+               </lg>
+               <lg n="8">
+                  <head>(8).</head>
+                  <lg>
+                     <l>Behold <hi>Mankind,</hi> now poſting down apace,</l>
+                     <l>And can of nothing boaſt, but Love and Grace,</l>
+                     <l>Which God has freely ſet before his Face;</l>
+                  </lg>
+                  <l>So needs muſt he on his dear Word relie,</l>
+                  <l>And willingly obey it till he dye:</l>
+                  <l>If he would live the Life, he muſt believe</l>
+                  <l>The <hi>Bible</hi> is God's Word, and muſt receive</l>
+                  <l>It all for Truth, <hi>Teſtament</hi> Old and New;</l>
+                  <l>God cannot lye, 'twas given us all for true:</l>
+                  <l>Let's then perform what's there injoyn'd throughout,</l>
+                  <l>And not diſpute, omit, nor yet to doubt,</l>
+                  <l>But with ſuch Sorrow for our Faults, Repent,</l>
+                  <l>Bathing in Tears even till our Life is ſpent.</l>
+               </lg>
+               <lg n="9">
+                  <head>(9.)</head>
+                  <l>For if we <hi>Sin,</hi> and after don't repent,</l>
+                  <l>But at our black Ingratitude relent,</l>
+                  <lg>
+                     <l>The Threatnings of <hi>God's</hi> Book do aim at all,</l>
+                     <l>Wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch by Tranſgreſſions oftentimes do fall,</l>
+                     <l>The Great ſhall have their due as well as Small;</l>
+                  </lg>
+                  <l>God promiſing to thoſe that do obey,</l>
+                  <l>Glorious Rewards, and can you th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nk that they</l>
+                  <l>Which diſregard his Threatnings, ſhall be</l>
+                  <l>Partakers of the ſame Felicity?</l>
+                  <l>If th' promiſe you expect then h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Threats <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ear,</l>
+                  <l>A <hi>Faith</hi> in both begets true Love and Fear;</l>
+                  <l>For whilſt with a firm <hi>Fa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th</hi> a Man believes</l>
+                  <l>The Promiſes, and dreadful Threats he gives,</l>
+                  <l>He will not dare to Sin, but rather chuſe</l>
+                  <l>To hope in God, and Sin and Vice refuſe.</l>
+               </lg>
+               <lg n="10">
+                  <head>(10.)</head>
+                  <l>
+                     <hi>Love</hi> is an innate Duty, which we owe</l>
+                  <l>To <hi>God,</hi> from whom all Goodneſs now do flow,</l>
+                  <pb n="14" facs="tcp:45812:9"/>
+                  <l>Being ſo good, ſo merciful, and kind,</l>
+                  <l>So apt to pardon, ought he not to find</l>
+                  <l>Returns of Love? He that with Love began,</l>
+                  <l>Should he not have returns of Love from Man?</l>
+                  <l>Yes, its a Duty which we ought to pay</l>
+                  <l>With all our Hearts to him, and not ſay nay,</l>
+                  <l>Making't our buſineſs, and our whole imploy,</l>
+                  <l>If that we would that bleſſed Place enjoy.</l>
+               </lg>
+               <lg n="11">
+                  <head>(11.)</head>
+                  <l>A Second Duty which to him we owe,</l>
+                  <l>Is filial Fear, which we muſt beſtow;</l>
+                  <lg>
+                     <l>Let this our daily care, leſt we offend,</l>
+                     <l>Be to commit no Sin at Man's command,</l>
+                     <l>But let God's Fear the fear of Man withſtand.</l>
+                  </lg>
+               </lg>
+               <lg n="12">
+                  <head>(12.)</head>
+                  <l>You muſt relie on God, and in him truſt,</l>
+                  <l>Being both knowing, powerful, good, and juſt;</l>
+                  <l>If Dangers threaten, or Temptations ſmile,</l>
+                  <l>Hope ſtill in him, and let them not beguile,</l>
+                  <l>But to your utmoſt power their force reſiſt,</l>
+                  <l>Then God will with his Grace, and Strength reſiſt,</l>
+                  <l>And in all Troubles which you ſhall be in,</l>
+                  <l>To be deliver'd, muſt not act one Sin.</l>
+               </lg>
+               <lg n="13">
+                  <head>(13.)</head>
+                  <lg>
+                     <l>Endeavours uſe lawful in caſe of want;</l>
+                     <l>If that woun't do, no doubt but God will grant</l>
+                     <l>His Spirit to aſſiſt, if ſtrength you want.</l>
+                  </lg>
+                  <lg>
+                     <l>In all Affairs obſerve a moderate Care,</l>
+                     <l>And ſecond thy Endeavours ſtill with Prayer,</l>
+                     <l>And for ſupport God will then nothing ſpare.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="15" facs="tcp:45812:9"/>
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> The Duty of Humility. <hi>(2.)</hi> The Fruits of it. <hi>(3.)</hi> The Duty of Honour to God. <hi>(4.)</hi> Of Baptiſm. <hi>(5.)</hi> Of the Covenant.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of infant baptism</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>
+                     <hi>HVmility,</hi> is another Duty,</l>
+                  <l>Which is any <hi>Chriſtians</hi> chiefeſt Beauty,</l>
+                  <l>Without which Grace the greateſt cannot be</l>
+                  <l>So happy here, or in Eternity;</l>
+                  <l>And that <hi>Humility</hi> is a true Senſe</l>
+                  <l>Of our own weakneſs, and God's Excellence.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>The thoughts of which ſhould make us more ſubmi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</l>
+                  <l>And fearful how we act, or think amiſs,</l>
+                  <l>'Twill keep us from Conceit, both vain and proud,</l>
+                  <l>Of our own Works, and not cry out aloud,</l>
+                  <pb n="16" facs="tcp:45812:10"/>
+                  <l>Making us patient till our God ſhould pleaſe</l>
+                  <l>To lay aſide his Rod, and give us eaſe,</l>
+                  <l>Making us thankful for his Chaſtiſement,</l>
+                  <l>And under every Providence content;</l>
+                  <lg>
+                     <l>When it has theſe Effects, then all may be</l>
+                     <l>Aſſur'd that they have true Humility,</l>
+                     <l>For without it none can a Chriſtian be,</l>
+                     <l>As to partake of true Felicity.</l>
+                  </lg>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>
+                     <hi>Honour</hi> to <hi>God</hi> with Tongue's an other due,</l>
+                  <l>Which we muſt give with Hearts, and Hands moſt true,</l>
+                  <l>At all times in his Church, and on his Day,</l>
+                  <l>In every Time, and Act, and Place, and Way,</l>
+                  <l>By Learning, Reading, following God's words,</l>
+                  <l>And practiſing the Rules which it affords,</l>
+                  <l>By Catechizing of the Ignorant,</l>
+                  <l>As Servants, Children, and all ſuch as want,</l>
+                  <l>Inſtructing them to live in the true fear</l>
+                  <l>Of God; taking them with you, when you hear</l>
+                  <l>Sermons, making them practiſe what they'r taught,</l>
+                  <l>That when they come from Church they be not naught.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>Inform your ſelves, be ſure of the Intent,</l>
+                  <l>Of <hi>Baptiſm,</hi> and the other Sacrament,</l>
+                  <l>They being Covenants of God's free Grace</l>
+                  <l>Between himſelf, and <hi>Adam</hi>'s ſinful Race,</l>
+                  <l>Wherein he promiſes to pardon Sin,</l>
+                  <l>And all the Treſpaſſes we have been in,</l>
+                  <l>To ſanctifie us, and at laſt to ſave</l>
+                  <l>Our Souls from Hell, and raiſe us from the Grave;</l>
+                  <l>And on condition to Eternal Life,</l>
+                  <l>If Faith in Chriſt we uſe with holy ſtrife,</l>
+                  <l>With true Repentance, and all Submiſſion,</l>
+                  <l>Of three things promiſed to have Fruition,</l>
+                  <l>If th' Remnant of our Days we truly do</l>
+                  <l>That we promiſed ſolemnly, and vow</l>
+                  <l>At <hi>Baptiſm,</hi> to renounce Fleſh, World, Devil,</l>
+                  <l>Th' Articles to believe, t' abſtain from Evil</l>
+                  <l>The days to come, and that with all our heart,</l>
+                  <l>If we expect God to perform his part.</l>
+               </lg>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="17" facs="tcp:45812:10"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> Of the Lord's Supper. <hi>(2.)</hi> Examination before. <hi>(3.)</hi> Humility, Repentance and Confeſſion. <hi>(4.)</hi> Faith and Charity. <hi>(5.)</hi> Thanks.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of communion scene</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>'TIS every Chriſtians Duty to receive</l>
+                  <l>The <hi>Sacrament,</hi> to ſtrengthen his belief,</l>
+                  <l>That oftentimes the Death of his dear Lord,</l>
+                  <l>He calls to mind even that which 'tdoth afford,</l>
+                  <l>That purchas'd, and alſo to renew</l>
+                  <l>The Covenant between the Lord and you,</l>
+                  <l>In <hi>Baptiſm</hi> by Proxies, but at Age</l>
+                  <l>You promiſe for your ſelf, ſo muſt ingage</l>
+                  <l>That Promiſe to perform, leſt for fear</l>
+                  <l>Even at the <hi>Lord's Supper</hi> you ſhould appear</l>
+                  <l>To come unworthily, with no intent</l>
+                  <l>That's good for to receive that Sacrament.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="18" facs="tcp:45812:11"/>
+                  <head>(2.)</head>
+                  <l>Therefore before you 'proach the holy place,</l>
+                  <l>Examine well your ſelf, and know your caſe,</l>
+                  <l>What Sins are unrepented of, and what</l>
+                  <l>You have committed, or may have forgot.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>For there you muſt confeſs, both great and ſmall,</l>
+                  <l>And bending Knee, be ſorry for 'em all,</l>
+                  <l>With grief, for having forfeited your Word,</l>
+                  <l>In all Humility before your Lord,</l>
+                  <l>And then reſolve a better Life to live</l>
+                  <l>For time to come, and againſt Sin to ſtrive.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>Having ſo done, you firmly may believe</l>
+                  <l>Your Sins then pardoned, and ſo receive</l>
+                  <l>The <hi>bleſſed Bread,</hi> and <hi>Wine,</hi> even with all Love,</l>
+                  <l>To Men on Earth, and to your God Above,</l>
+                  <l>That <hi>Bread</hi> and <hi>Wine</hi> are ſymbols of his Blood</l>
+                  <l>And Body which he gave when here he ſtood,</l>
+                  <l>Theſe all muſt receive often, and not ſome,</l>
+                  <l>And muſt be ſo doing e'en till he come,</l>
+                  <l>Which is but the performing of his Will,</l>
+                  <l>Which till his Coming, is our Duty ſtill.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5.)</head>
+                  <l>Having received, let's thank God that permits</l>
+                  <l>Us to partake of ſuch rich benefits.</l>
+               </lg>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="19" facs="tcp:45812:11"/>
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> Honour to God's Name. <hi>(2.)</hi> Worſhip. <hi>(3)</hi> Prayer. <hi>(4.)</hi> Confeſſion to him, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>THere's always <hi>Honour</hi> due to <hi>God's</hi> great Name,</l>
+                  <l>Which thou muſt not by Word or Thought prophane,</l>
+                  <l>By Swearing falſly, or by needleſs Oaths</l>
+                  <l>His Name prophane, and on Mankind impoſe:</l>
+                  <l>When Paſſions boyl, and Anger ſmarts, forbear</l>
+                  <l>Both, if thou canſt even with thy Tongue not ſwear.</l>
+                  <l>Such boyling of thy Soul's but empty froth,</l>
+                  <l>Which God and all good Men do always loath;</l>
+                  <l>It will no profit, or yet pleaſure bring,</l>
+                  <l>Nor Honour, when it in all Ears do ring,</l>
+                  <pb n="20" facs="tcp:45812:12"/>
+                  <l>But rather Horrour, and a great Diſgrace,</l>
+                  <l>Both to the Perſon, and ſo to the Place.</l>
+                  <l>'Tis ſilly then for any to ſin <hi>gratis,</hi>
+                  </l>
+                  <l>As to prophane God's Name, having ſatis.</l>
+                  <l>Its Sin you know to quarrel with thy Fellow,</l>
+                  <l>And greater much againſt thy God to Bellow</l>
+                  <l>Such horrid Oaths, and Imprecations too,</l>
+                  <l>As will thee here and afterwards undo:</l>
+                  <l>Therefore refrain that foul and ugly Sin,</l>
+                  <l>By which the Devil often enters in,</l>
+                  <l>And then the ſtate of that Man's worſe than firſt,</l>
+                  <l>So his Damnation muſt be deemed juſt.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Worſhip's next thing that's naturally due</l>
+                  <l>In private, publick to our God moſt true;</l>
+                  <l>It muſt be payed with Body, and with Mind.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>By Prayers, Confeſſions, and our ſelves reſign'd</l>
+                  <l>To his diſpoſal, begging holy aid</l>
+                  <l>To mend our Lives, and pardon what is ſaid,</l>
+                  <l>Or done, Praying with, or for others praiſe,</l>
+                  <l>Giving for Bleſſings all, and quiet days,</l>
+                  <l>Yea, for every benefit we receive,</l>
+                  <l>Muſt ſincere Thanks, and humble Praiſes give.</l>
+                  <l>Its a ſmall matter, I think twice a day,</l>
+                  <l>To lay aſide the World, fall down and Pray:</l>
+                  <l>No Man I'm ſure can better uſe his Time,</l>
+                  <l>Than to implore a Pardon for his Crime.</l>
+               </lg>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="21" facs="tcp:45812:12"/>
+               <head>CHAP. VI.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> Man's Duty towards Himſelf. <hi>(2.)</hi> Humility in oppo<g ref="char:EOLhyphen"/>ſition to Pride. <hi>(3.)</hi> Vain-glory. <hi>(4.)</hi> Meekneſs. <hi>(5.)</hi> The Fruits of it. <hi>(6.)</hi> Conſideration.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of man kneeling in front of book</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>HUmble thou muſt be, having a low eſteem,</l>
+                  <l>Even of thy ſelf, tho' others do thee deem</l>
+                  <l>As little too as thou doſt think thy ſelf,</l>
+                  <l>Be not deceived, tho' thou abounds in ſelf.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>For God hates Pride, and therefore will not love</l>
+                  <l>Thee till thou doſt that hateful Sin remove.</l>
+                  <lg>
+                     <l>What tho' thou art Hanſome, Active, Strong, or Wiſe,</l>
+                     <l>And thy clear Soul ſhine through thy ſparkl ng Eyes,</l>
+                     <l>Thou haſt no cauſe thy ſelf for to diſguiſe,</l>
+                     <l>And make deformed what God made otherwiſe.</l>
+                  </lg>
+                  <pb n="22" facs="tcp:45812:13"/>
+                  <l>Such great Advantages even for to ſtain</l>
+                  <l>And ſpoil by Pride, which is a cruel Bain:</l>
+                  <l>To Happineſs therefore, when it begins</l>
+                  <l>To ſpring up in thy Mind, from gilded things,</l>
+                  <l>Which thou haſt got, or done, ſink down thy Knee,</l>
+                  <l>And contradict it with Humility.</l>
+                  <l>Quench thy vain Thoughts with Tears, expell with Pray'r</l>
+                  <l>The Wind of empty Praiſe, and ſwelling Air.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>For <hi>God</hi> will not accept thoſe Deeds you do,</l>
+                  <l>Out of Vain-glory, and external ſhow.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>
+                     <hi>Meekneſs</hi> alſo is our bounden Duty,</l>
+                  <l>Which is a Chriſtian's Excellence, and Beauty,</l>
+                  <l>To have an even Calmneſs in ones Soul,</l>
+                  <l>That can the Paſſions ſurly Wrath controul.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5.)</head>
+                  <l>
+                     <hi>That Man,</hi> of Men and God, is the delight,</l>
+                  <l>Submiſs, and quiet both, doth never Fight,</l>
+                  <l>Nor ever Quarrels, nor yet hatches Strife;</l>
+                  <l>But in a Knotleſs Thread ſpins out his Life;</l>
+                  <l>Such a good Chriſtian's like his bleſſed Lord,</l>
+                  <l>Which never utter'd an impatient Word.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6.)</head>
+                  <l>
+                     <hi>Conſideration</hi> makes an other part</l>
+                  <l>Of a good Chriſtian Life to ſearch the Heart,</l>
+                  <l>And to conſider of its preſent State,</l>
+                  <l>Whether it doth incline to Love, or Hate</l>
+                  <l>Of Sin, that according as it is bent,</l>
+                  <l>Whether to approve, or elſe in time repent.</l>
+                  <lg>
+                     <l>Then every Night conſider what you've thought</l>
+                     <l>Or done in the Day paſt, which if it's nought,</l>
+                     <l>Or any ill appear that has been wrought,</l>
+                  </lg>
+                  <lg>
+                     <l>Strait ask God's pardon for the unwary Sin,</l>
+                     <l>Before it wholly ſlips, or enters in,</l>
+                     <l>And that before next Morning doth begin.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="23" facs="tcp:45812:13"/>
+               <head>CHAP. VII.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> Contentedneſs. <hi>(2.)</hi> Chaſtity. <hi>(3.)</hi> Temperance. <hi>(1.)</hi> in Meat. <hi>(2.)</hi> in Drink. <hi>(3.)</hi> in Sleep. <hi>(4.)</hi> in Recreations. <hi>(5.)</hi> in Cloaths, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of woman holding two snakes</figDesc>
+                  </figure>
+               </p>
+               <lg>
+                  <lg>
+                     <l>IT is our Duty to be ſtill <hi>Content</hi>
+                     </l>
+                     <l>With <hi>Providence,</hi> and not for to Relent,</l>
+                     <l>However bad, or harſh proves the Event.</l>
+                  </lg>
+                  <l>Tho' thou be Sick, in Slavery, or Poor,</l>
+                  <l>Yet never ſet thy Heart to covet more;</l>
+                  <l>Do not by means unlawful in the leaſt,</l>
+                  <l>Your needy wiſhes practiſe: It's a Feaſt</l>
+                  <l>To be content with Rayment, and with Food,</l>
+                  <l>Such <hi>Moderate Deſires</hi> are always Good.</l>
+                  <l>So ſet your Self with Induſtry to watch,</l>
+                  <pb n="24" facs="tcp:45812:14"/>
+                  <l>And Diligence, leſt unawares you catch</l>
+                  <l>A Fall; to avoid which, always imploy</l>
+                  <l>All Graces, and all Gifts you do enjoy.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>And keep thy ſelf ſo pure, and always Chaſte,</l>
+                  <l>Thy Strength on Women be ſure not to waſte,</l>
+                  <l>Nor give thy ſelf that fatal Liberty,</l>
+                  <l>To look at random with a glancing Eye;</l>
+                  <l>Reſtrain thy Thoughts, thy Hands, thy guilty Words;</l>
+                  <l>Take all the Helps that this wiſe World affords;</l>
+                  <l>But above all, being pure, ſee that thou fly</l>
+                  <l>Idleneſs and all Wanton Company.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>Be Temperate in every thing you Eat,</l>
+                  <l>And make judicious choiſe of Harmleſs Meat.</l>
+               </lg>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>In <hi>Drinking</hi> alſo, ſee there ben't Exceſs,</l>
+                  <l>To ſtain thy Mind by filthy Drunkenneſs,</l>
+                  <l>Which is a Sin ſo loathſome to the ſight</l>
+                  <l>Of God, and Man, committed but by night,</l>
+                  <l>At firſt ſo odious, murthering Reaſon,</l>
+                  <l>Making the Body reel, or act ſome Treaſon,</l>
+                  <l>Then is confin'd into ſome loathſome Cell,</l>
+                  <l>Whoſe Soul at laſt is plunged into Hell.</l>
+                  <l>Make no Man Drunk, for whatſoer's Sin,</l>
+                  <l>Thou muſt not act thy ſelf, nor draw Men in.</l>
+                  <l>Be not concern'd then when Sots thee upbraid,</l>
+                  <l>If thou be Sober, be not then afraid</l>
+                  <l>Of ſuch Mad-men, which can as little move</l>
+                  <l>Thy Reaſon, as their Perſons draw thy Love.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Be moderate in <hi>Sleep,</hi> leſt thou offend</l>
+                  <l>Thy God, and quite deſtroy that Chriſtian end.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>In <hi>Recreation</hi> be temperate alſo;</l>
+                  <l>For tho' thou may'ſt divert, thou yet muſt know</l>
+                  <l>Not to engage thy Heart in them moſt deep,</l>
+                  <l>Neglecting God's Laws and Statutes to keep.</l>
+                  <l>Play <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t for Money, but for Exerciſe,</l>
+                  <l>In one the Uſe, in th' other the Miſchief lies:</l>
+                  <l>For by the Uſe of them, thou ſhew'ſt to man</l>
+                  <l>Which way thy Soul is biaſs'd, do what thou can.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="25" facs="tcp:45812:14"/>
+                  <head>(4.)</head>
+                  <l>Be temperate alſo in the <hi>Cloathes</hi> you wear,</l>
+                  <l>Only in ſuch as ſuits thy Rank appear;</l>
+                  <l>If Rich, don't put a value on ſuch Cloathes;</l>
+                  <l>If Poor, let not their Meanneſs diſcompoſe</l>
+                  <l>Thee at no time, 'tis alike to be proud,</l>
+                  <l>And Fret for want, as Strut for having good.</l>
+               </lg>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. Man's Duty towards his Neighbour.</head>
+               <argument>
+                  <p>
+                     <hi> (1.)</hi> Juſtice. <hi>(2.)</hi> Charity. <hi>(1.)</hi> Not to ſeduce him. <hi>(2.)</hi> Not to Murther. <hi>(3.)</hi> Nor to Beat. <hi>(4.)</hi> Nor Slander. <hi>(5.)</hi> Nor to commit Adultry. <hi>(6.)</hi> Nor Spight. <hi>(7)</hi> To do no Injuſtice. <hi>(8.)</hi> Not to Rob. <hi>(9.)</hi> But be Fair in Dealings. <hi>(10.)</hi> To make Reſtitution, and how to make it.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut of personification of Justice</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>LET theſe two Duties to your Neighbours be.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Strict <hi>Iuſtice,</hi> with good natur'd Charity:</l>
+                  <l>Not Spightful as to gall, or vex his Mind,</l>
+                  <l>But with a Diſpoſition always kind.</l>
+               </lg>
+               <lg n="1">
+                  <pb n="26" facs="tcp:45812:15"/>
+                  <head>(1.)</head>
+                  <l>Do ſtill what Good you can, never begin</l>
+                  <l>T' intice, nor yet provoke him unto Sin;</l>
+                  <l>But if it has been your Misfortune ſad,</l>
+                  <l>To make him Err; yea, or to make him bad,</l>
+                  <l>Strive all you can then him to Vertue win,</l>
+                  <l>And to an Holy Life, or elſe you ſin,</l>
+                  <l>And anſwer muſt for his, as well as yours,</l>
+                  <l>Which were contracted at ſuch certain hours.</l>
+                  <l>Since your Counſel and Practiſe made him Sin,</l>
+                  <l>See Sorrow true with him you enter in.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Be ſure that <hi>Blows,</hi> and <hi>Murther</hi> thou forbear,</l>
+                  <l>Theſe always God, and ſometimes Men do hear,</l>
+                  <l>And makes them by a diſmal Fate appear.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>What e'er thy <hi>Neighbour</hi> feels, his very Sorrow</l>
+                  <l>Will eccho out thy Guilt e'en to Morrow.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>But if in Anger thou with Blows him treat,</l>
+                  <l>Or bitter Slandering Words him worſer greet;</l>
+                  <l>If Hatred in thy Heart thou doſt conceive</l>
+                  <l>Againſt him, thy Duties then to grieve,</l>
+                  <l>And make amends for what thou'ſt done amiſs,</l>
+                  <l>Or elſe be ſure God will thee never Bliſs.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5.)</head>
+                  <l>See that <hi>Adultery</hi> thou ne'er commit,</l>
+                  <l>Nor with untamed Luſt to burn; for it</l>
+                  <l>Will Body unto ruin bring, and Mind,</l>
+                  <l>The moſt part here, or elſe be ſure to find</l>
+                  <l>Them both reſerv'd for a more diſmal place,</l>
+                  <l>Eternally to Burn in a ſad caſe.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6.)</head>
+                  <l>Spoil not, nor Covet Goods of any Man,</l>
+                  <l>For ſuch Extortion, and Oppreſſion can,</l>
+                  <l>And will thee to that diſmal Hell-pit damn.</l>
+               </lg>
+               <lg n="7">
+                  <head>(7.)</head>
+                  <l>Much leſs may'ſt thou apply thy Hand to Steal,</l>
+                  <l>Or keep back Servants Wages, they'll appeal</l>
+                  <pb n="27" facs="tcp:45812:15"/>
+                  <l>To God for Juſtice; do not then with-hold</l>
+                  <l>Anothers Right, but pay th' Indebted Gold.</l>
+               </lg>
+               <lg n="8">
+                  <head>(8.)</head>
+                  <l>Thou muſt not take by Violence, nor Rob</l>
+                  <l>Thy Neighbour, tho' ſome think it's a good job:</l>
+                  <l>It is Injuſtice what's not thine to take,</l>
+                  <l>Or Stolen Goods to buy, or profit make</l>
+                  <l>Of ſuch you know, uſe no Deceit or Sleight</l>
+                  <l>In any Truſt, in Meaſure, or in Weight.</l>
+               </lg>
+               <lg n="9">
+                  <head>(9.)</head>
+                  <l>Sell not thy Bad for Good, nor over-rate</l>
+                  <l>Thy Goods to Ignorants, but rather bate</l>
+                  <l>Such ſilly Souls which know not how to buy,</l>
+                  <l>Often deceived are by gainful Lye.</l>
+                  <l>Of Neceſſity don't advantage make,</l>
+                  <l>For what you get by that, will make you quake</l>
+                  <l>At laſt; for always ſuch unlawful ways</l>
+                  <l>Will make you then for ever Curſe the days.</l>
+               </lg>
+               <lg n="10">
+                  <head>(10.)</head>
+                  <lg>
+                     <l>But if tho'art Guilty, be ſure to reſtore</l>
+                     <l>What Goods thou took unjuſtly heretofore,</l>
+                     <l>Or elſe ſuch unfair Deeds will prove much more</l>
+                     <l>Intollerable, being put upon thy Score.</l>
+                  </lg>
+                  <l>Granting the Perſon that you have wrong'd be dead,</l>
+                  <l>What then! the Juſtice is not with him fled:</l>
+                  <l>You are alive, and muſt the Wrong repair,</l>
+                  <l>By making Reſtitution to his Heir.</l>
+                  <l>But if t'a Multitude you've done wrong,</l>
+                  <l>And can't Recompence in ſuch a throng,</l>
+                  <l>Or Reſtitution to that Man ſo render,</l>
+                  <l>Becauſe you can't juſtly it remember,</l>
+                  <lg>
+                     <l>Who you've wrong'd this, or that man, therefore</l>
+                     <l>In ſuch a caſe as that you muſt reſtore</l>
+                     <l>What was unjuſtly got, unto the Poor,</l>
+                  </lg>
+                  <l>To the full value of what e'er you took,</l>
+                  <l>Or elſe for Pardon you in vain may look:</l>
+                  <l>But if with <hi>Dives</hi> you your Conſcience ſell,</l>
+                  <l>There will be no Repentance but in Hell.</l>
+                  <l>Then all in vain th' abundance, and the Pence,</l>
+                  <l>Can not ſo much as eaſe for one poor Senſe,</l>
+                  <pb n="28" facs="tcp:45812:16"/>
+                  <l>Procure for his loud Cries, were all in vain,</l>
+                  <l>For to procure Relief, or end of Pain.</l>
+                  <l>'Tis true, the Man that's wronged, may, if he pleaſe,</l>
+                  <l>Forgive, yea, and diſcharge you with much eaſe.</l>
+               </lg>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> Not to Defame. <hi>(2.)</hi> Not to bear Falſe Witneſs. <hi>(3.)</hi> Nor deſpiſe. <hi>(4.)</hi> Nor Cenſure. <hi>(5.)</hi> Nor bear Ill<g ref="char:EOLhyphen"/>will. <hi>(6.)</hi> Nor Envy. <hi>(7.)</hi> How to make Reparation of thoſe Offences. <hi>(8.)</hi> Nor Lye. <hi>(9.)</hi> What Behaviour. <hi>(10.)</hi> Reſpect to Betters. <hi>(11.)</hi> Duties to ſuch as are in Want. <hi>(12.)</hi> Thankfulneſs to others.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>woodcut</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <lg>
+                     <l>YOu muſt not leſſen any Man's good Name,</l>
+                     <l>By Falſe Reports, tho' h'may deſerve the ſame,</l>
+                     <l>Do not too haſtily Credit give, nor blame,</l>
+                     <l>And be not over-forward of the Fame,</l>
+                  </lg>
+                  <pb n="29" facs="tcp:45812:16"/>
+                  <l>Tho' ill of him, thou may'ſt for certain know,</l>
+                  <l>Yet he as much of thee may hear: Be ſlow</l>
+                  <l>Therefore to think him Guilty, or yet tell</l>
+                  <l>His Failings, tho' thou know'ſt them ne'er ſo well.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Do not Backbite, Rail, or Falſe Witneſs bear,</l>
+                  <l>Tho' thou of him may Truth with Falſhood hear.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>Deſpiſe not any, tho' he's very Poor,</l>
+                  <l>Deformed, or Fooliſh, Begging at thy Door;</l>
+                  <l>Nor yet becauſe he is perhaps Prophane,</l>
+                  <l>That's not the way him then for to reclaim.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>Do no Man judge, for if you do, there's ſtill</l>
+                  <l>A Judgment juſt on you at laſt paſs will.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5.)</head>
+                  <l>Wiſh not thy Brother evil in Eſtate,</l>
+                  <l>Or Perſon, neither in thy Heart him Hate.</l>
+                  <l>But if ſome Evil to them both befal,</l>
+                  <l>Expreſs no Satisfaction in't at all;</l>
+                  <l>But if to him any ſuch Harm do hap,</l>
+                  <l>Then with <hi>Moſes</hi> ſtand in, and ſtop the Gap.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6.)</head>
+                  <l>Nor thou by ſpightful Wiſhes oughteſt more</l>
+                  <l>To pine and envy't his abounding ſtore.</l>
+               </lg>
+               <lg n="7">
+                  <head>(7.)</head>
+                  <l>But if you Guilty be of ſome, or all,</l>
+                  <l>By cauſing his Credit thereby to fall,</l>
+                  <l>By Slander, Railing, or by ill report,</l>
+                  <l>Unto the Injur'd Party then reſort,</l>
+                  <l>Begging his Pardon, if you can reſtore</l>
+                  <l>To him the ſame Good Name he had before.</l>
+               </lg>
+               <lg n="8">
+                  <head>(8.)</head>
+                  <l>The Truth profeſs, be ſure to tell no Lye,</l>
+                  <l>Tho' thou ſure wer't to get the World thereby.</l>
+                  <l>Uſe gentle Courteſie to all, and then</l>
+                  <l>Thou ſhalt be ſure to have the Praiſe of Men.</l>
+               </lg>
+               <lg n="9">
+                  <head>(9.)</head>
+                  <l>Rail not at Railers, nor ſeem Proud to be,</l>
+                  <l>It's odious both for God, and Man, to ſee</l>
+                  <pb n="30" facs="tcp:45812:17"/>
+                  <l>Such Quarrelers with Brawling to begin,</l>
+                  <l>Nor in thy Heart curſe, or revile thy King;</l>
+                  <l>For Chriſt, and his Apoſtles, taught us all,</l>
+                  <l>That we ſhould for all Mankind mercy call.</l>
+                  <l>So having taught, and likewiſe practiſed thus,</l>
+                  <l>Let Precept or Example work on us,</l>
+                  <l>That we with them may always happy be,</l>
+                  <l>In Joys ſo good to all Eternity.</l>
+               </lg>
+               <lg n="10">
+                  <head>(10.)</head>
+                  <l>Your Betters reverence, of great Renown,</l>
+                  <l>For Piety, whether in Cloak, or Gown,</l>
+                  <l>Or Eminence, being of Senſe, or Fame,</l>
+                  <l>Of Learning, Wealth, do not ſpoil their good Name;</l>
+                  <l>To all that want, afford a kind Supply,</l>
+                  <l>According to thy beſt Ability.</l>
+                  <l>If they want Knowledge, give them what thou haſt,</l>
+                  <l>Thou mayſt Communicate, and yet not waſte</l>
+                  <l>Thy Stock. If Comfort, give them what Relief</l>
+                  <l>Thou canſt of hope t'aſſwage their preſent Grief:</l>
+                  <l>If they want Reputation, try to clear</l>
+                  <l>Their Credit, and to make the beſt appear;</l>
+                  <l>If 'tis Money they ask, what thou can'ſt ſpare,</l>
+                  <l>Beſtow, they'l pay thee back again in Pray'r.</l>
+               </lg>
+               <lg n="12">
+                  <head>(12.)</head>
+                  <l>To all that doth thee good, thou thankful muſt</l>
+                  <l>Be, by putting up Prayers to God the juſt,</l>
+                  <l>For them which thee admoniſhed has of Sin,</l>
+                  <l>Which thou perhaps had Headlong fallen in,</l>
+                  <lg>
+                     <l>Or which thee kind Advice, ſo often gave</l>
+                     <l>Thy ſelf to God and Man as to behave,</l>
+                     <l>Upon thy dreadful Journey to the Grave.</l>
+                  </lg>
+                  <l>Be thankful then, and ready to adviſe</l>
+                  <l>Another who is than thy Self leſs wiſe.</l>
+               </lg>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="31" facs="tcp:45812:17"/>
+               <head>CHAP. X.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> To the King. <hi>(2.)</hi> To Miniſters. <hi>(3.)</hi> To Natural Parents. <hi>(4.)</hi> Parents Duty to their Children. <hi>(5.)</hi> Concerning Marriage, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>Moses with Ten Commandments</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>HOnour the <hi>King,</hi> obeying His Commands,</l>
+                  <l>And Tribute due pay thou with thine own Hands,</l>
+                  <l>But if he doth command a Sinful Thing,</l>
+                  <l>See God that thou obey, and not the King.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Have for <hi>Good Miniſters</hi> a due reſpect,</l>
+                  <l>Namely thoſe which the Church and State protect,</l>
+                  <l>Contribute to their Maintenance what's fit,</l>
+                  <l>Even all that's due, ſpare not to give one bit;</l>
+                  <lg>
+                     <pb n="32" facs="tcp:45812:18"/>
+                     <l>Pray for them, that they no Falſe Doctrine may</l>
+                     <l>Deliver, but God's juſt Commands obey,</l>
+                     <l>Such as they teach you, follow in thy way:</l>
+                     <l>Don't as they do, but do ſtill as they ſay.</l>
+                  </lg>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>Honour thy <hi>Parents</hi> with ſuch tender Love,</l>
+                  <l>Being Submiſſive when they thee Reprove;</l>
+                  <lg>
+                     <l>With Reverence, and Thanks, take their Advice,</l>
+                     <l>For by it unto Honour you may riſe,</l>
+                     <l>Tho't be ſo common, yet regard and prize,</l>
+                     <l>Since Diſobedience is a great Vice;</l>
+                  </lg>
+                  <l>If to Infirmity they are ſubject,</l>
+                  <l>Covering their Failings, you may them protect;</l>
+                  <l>And think not that becauſe they're even ſo,</l>
+                  <l>To them, no Obſervation you muſt owe,</l>
+                  <l>Granting that thou art wiſer than they are,</l>
+                  <l>Yet if thou art ſo, then thou muſt not dare</l>
+                  <l>To Mock at them, or Scoffingly deſpiſe</l>
+                  <l>Their Perſons, or Commands, God will thoſe Eyes</l>
+                  <lg>
+                     <l>And Tongues torment: But yet indeed if they</l>
+                     <l>Through weakneſs, bid you Sin, refuſe you may;</l>
+                     <l>Nay, you incur the Guilt, if you obey.</l>
+                  </lg>
+                  <l>Then with an humble Modeſty; you muſt</l>
+                  <l>Shew that the Inconveniency is juſt,</l>
+                  <l>And would be fatal in performing ſuch,</l>
+                  <l>Therefore refuſing, is the better much,</l>
+                  <l>If they are Needy, and thou canſt relieve,</l>
+                  <l>Thou ought'ſt in that thou doſt repay, not give,</l>
+                  <lg>
+                     <l>Tho they are Wicked, and even unkind,</l>
+                     <l>Yet ſtill thy Duty of Child doth bind;</l>
+                     <l>Let nothing then by thee be left behind.</l>
+                  </lg>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>Since Parents are bound their's for to maintain</l>
+                  <l>With things needful, Women ſhould not abſtain</l>
+                  <l>From Nurſing theirs themſelves, its only Pride,</l>
+                  <l>And Luſt which makes them daily thus deride;</l>
+                  <lg>
+                     <l>No wonder then Children are ſo perverſe,</l>
+                     <l>Sucking the Milk of ſuch a peeviſh Nurſe,</l>
+                     <l>Inſtead of Bleſſings, needs muſt bring a Curſe.</l>
+                  </lg>
+                  <pb n="33" facs="tcp:45812:18"/>
+                  <l>Take timely care for <hi>Baptiſm,</hi> and prepare</l>
+                  <l>Their tender Minds for <hi>Piety</hi> and <hi>Prayer,</hi>
+                  </l>
+                  <l>Inſtructing them by Catechiſing, what</l>
+                  <l>Their Duties are to God, and Man, and that</l>
+                  <l>With a Mild Hand you them in time correct</l>
+                  <l>Their Faults at firſt, but obſtinate defect</l>
+                  <l>Calls for more Strength; for as they grow in Years,</l>
+                  <l>When their Mind's Inclination appears,</l>
+                  <lg>
+                     <l>Then then's the time for training up your Son,</l>
+                     <l>To polliſh in him what has been begun,</l>
+                     <l>Which may continue longer than the Sun.</l>
+                  </lg>
+                  <l>If he be Good, give all Incouragement</l>
+                  <l>To that your Child; If Bad, betimes prevent</l>
+                  <l>The growing Ill, before it do's obtain</l>
+                  <l>An Habit, and is ſeated in the Brain,</l>
+                  <l>Shewing them Good Examples in your Lives,</l>
+                  <l>Vertue by Imitation faſteſt thrives</l>
+                  <l>For them provide againſt they to come to Age,</l>
+                  <l>That no neceſſity their Minds ingage</l>
+                  <l>In evil Courſes; and be ſure take heed</l>
+                  <l>That with no ill-got Goods you them do feed;</l>
+                  <l>Such Wealth as that, often deſtroys the Line,</l>
+                  <l>And leaves a Curſe intail'd on thee and thine.</l>
+                  <l>Therefore let that Proviſion thou mak'ſt, be</l>
+                  <l>Goods well got with unſtrain'd ability,</l>
+                  <l>And then Proſperity thou mayſt expect,</l>
+                  <l>And that thy God will them and thee protect.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5.)</head>
+                  <l>
+                     <hi>Marry</hi> them not, unleſs in Love inclin'd</l>
+                  <l>They be to ſuch an one you have a mind</l>
+                  <l>Alſo, as to adopt, and make your Child:</l>
+                  <l>For if you force them, you may be beguil'd,</l>
+                  <l>Nay, the Child that is Marry'd to much Pelf,</l>
+                  <l>Is often tempted to deſtroy its Self.</l>
+                  <l>'Tis too true, being forc'd, an Aſs to take,</l>
+                  <l>No marvel then their Duty they forſake</l>
+                  <l>To God, and Man, reſolving for to ſtear</l>
+                  <l>An other Courſe, where there Affections bear;</l>
+                  <l>Therefore the rather yield to them to chuſe,</l>
+                  <l>As they in Old time never did refuſe</l>
+               </lg>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="34" facs="tcp:45812:19"/>
+               <head>CHAP. XI.</head>
+               <argument>
+                  <p>
+                     <hi>(1.) <hi>Love,</hi>
+                     </hi> &amp;c. <hi>(2.)</hi> Wive's Duty to her Husband. <hi>(3.)</hi> Husband's Duty to his Wife. <hi>(4.)</hi> To a Friend. <hi>(5.)</hi> A Servant's Duty. <hi>(6.)</hi> A Maſter's Duty.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>marriage scene with Ten Commandments in background</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>
+                     <hi>KIndneſs,</hi> and <hi>Love,</hi> is to your Brethren due,</l>
+                  <l>Both Natural, and Chriſtian, ſo true,</l>
+                  <l>The pooreſt Child is Servant of the Lord,</l>
+                  <l>And thy Kinſman, with whom thou muſt accord,</l>
+                  <l>And have regard to; being in Friendſhip near,</l>
+                  <l>A Member juſt of Mind, and Body dear;</l>
+                  <l>Then think him ſo, not letting an abuſe</l>
+                  <l>Awake thy Anger, or diſturb thine Houſe.</l>
+                  <l>In every ſort of Friendſhip do reſign</l>
+                  <l>Thy ſelf in Temporals, and things Divine,</l>
+                  <l>To God in Prayers, in one Commun'on meet,</l>
+                  <l>And joyn your Praiſes 'tis an Off'ring ſweet</l>
+                  <pb n="35" facs="tcp:45812:19"/>
+                  <l>To <hi>God,</hi> for he always delights to ſee</l>
+                  <l>
+                     <hi>Brethren</hi> to live in Peace, and Unity.</l>
+                  <l>If a weak <hi>Brother</hi> doth commit a Sin,</l>
+                  <l>Correct him mildly, till by Love you win</l>
+                  <l>Him back to true Repentance, by which way</l>
+                  <l>You ſave his Soul e'en from that evil Day.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>That in <hi>Woman</hi> is the chiefeſt Beauty</l>
+                  <l>The Husband to obey, which is her Duty;</l>
+                  <l>She muſt in nothing but in Sin deny,</l>
+                  <l>With all Commands, beſides, ſhe muſt comply:</l>
+                  <l>She muſt be faithful to him, and ſo uſe</l>
+                  <l>Care at all times, and no wiſe refuſe</l>
+                  <lg>
+                     <l>That Duty due, not ſtriving for that Rule,</l>
+                     <l>Which being unnatural makes him a Fool,</l>
+                     <l>And more than that a meer deſpiſed Tool,</l>
+                  </lg>
+                  <l>But with a tender and peculiar Love,</l>
+                  <l>Let her obey, and Houſhold Joys improve;</l>
+                  <l>Tho' perhaps by Labours, may be croſs,</l>
+                  <l>Or much perplex'd at ſome unlucky Loſs,</l>
+                  <lg>
+                     <l>Yet ought ſhe not to ſlack her Love; or Hate,</l>
+                     <l>Nor any of her former Warmth abate,</l>
+                     <l>Becauſe ſhe's bound to him her only Mate.</l>
+                  </lg>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <lg>
+                     <l>Her <hi>Husband</hi> is to render Her the ſame</l>
+                     <l>Dear Love, and only change the rugged Name,</l>
+                     <l>Obedience, or elſe he is to blame,</l>
+                  </lg>
+                  <l>Into that Faithfulneſs to her he owes,</l>
+                  <l>And Love with due reſpect, which he well knows</l>
+                  <l>He promiſs'd only in her chaſt embrace,</l>
+                  <l>All foreign Joys for to deteſt, and face,</l>
+                  <l>And he a due Maintenance to allow,</l>
+                  <l>Inſtructing her in all good things, and how</l>
+                  <l>To ſerve the Lord; and muſt together Pray,</l>
+                  <l>By mutual Kindneſs wear their Lives away.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>Take not to Wife thoſe which are near a Kin,</l>
+                  <l>To thee, whether ſecond or firſt Couſin,</l>
+                  <l>Them then refuſe, for that's an horrid Sin.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="36" facs="tcp:45812:20"/>
+                  <head>(5.)</head>
+                  <lg>
+                     <l>Be to thy Friend faithful, his Secrets keep,</l>
+                     <l>Him in diſtreſs ſupply now, leſt he Weep,</l>
+                     <l>And by deſpairing, take a deadly Sleep,</l>
+                  </lg>
+                  <l>Through thy neglect: To be a real Friend,</l>
+                  <l>Is ſacred, and a Tie no Straits ſhould rend.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6.)</head>
+                  <l>A <hi>Servant's</hi> Duty is for to obey,</l>
+                  <l>And Love with diligence, and not ſay nay,</l>
+                  <l>He muſt be Faithful, not inclin'd to waſte</l>
+                  <l>His Maſter's Goods, ſince Confidence is plac'd</l>
+                  <l>In him, 'tis petty-Treaſon to betray</l>
+                  <l>His Truſt, by careleſs ſquandring them away.</l>
+                  <l>With modeſt Carr'age, and reſpectful Grace,</l>
+                  <l>He muſt diſcharge the Duty of his Place,</l>
+                  <l>Attend to good Inſtruction, Pray, and Hear,</l>
+                  <l>And Sins of every kind he muſt forbear.</l>
+               </lg>
+               <lg n="7">
+                  <head>(7.)</head>
+                  <lg>
+                     <l>The <hi>Maſter</hi> alſo to his Servants muſt</l>
+                     <l>Pay them their Wages, and always be juſt</l>
+                     <l>To all them for diſcharging of their Truſt,</l>
+                  </lg>
+                  <lg>
+                     <l>From them withdrawing nothing that is due,</l>
+                     <l>Doing by them as they have done by you,</l>
+                     <l>Leſt publickly they for their Wages ſue.</l>
+                  </lg>
+                  <l>He muſt admoniſh, and reprove their Vice,</l>
+                  <l>Inſtructing them how they may beſt then riſe</l>
+                  <lg>
+                     <l>To moſt perfection in Goods, and Mind,</l>
+                     <l>Not to enſlave them, but be always kind,</l>
+                     <l>Caſting all Cruelty even behind.</l>
+                  </lg>
+                  <l>Becauſe if he to them no Mercy give,</l>
+                  <l>From God he muſt then as little receive.</l>
+                  <l>Maſters diſcreetly ſhould with Servant bear,</l>
+                  <l>And without any Anger ſpeak, and hear,</l>
+                  <l>That will win on the Servant, and ſo make</l>
+                  <l>Him do more than he bids him for your ſake,</l>
+                  <l>And then alſo the Maſter ought to give</l>
+                  <l>A good Example how they ought to live:</l>
+                  <l>For how can any Man expect to find</l>
+                  <l>Dutiful Servants, if they do not mind,</l>
+                  <l>To do their Duty to the King of Kings,</l>
+                  <l>Doubtleſs they'll be regardleſs of your things.</l>
+               </lg>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="37" facs="tcp:45812:20"/>
+               <head>CHAP. XII.</head>
+               <argument>
+                  <p>
+                     <hi>(1.)</hi> Charity to Brethren. <hi>(2.)</hi> To Enemies. <hi>(3.)</hi> By the Example of Chriſt. <hi>(4.)</hi> By his Command. <hi>(5.)</hi> Cha<g ref="char:EOLhyphen"/>rity in Actions. <hi>(6.)</hi> To the Soul. <hi>(7.)</hi> To the Body.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>Charity personified holding anchor</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>NExt <hi>Charity,</hi> which urges us to love,</l>
+                  <l>Of Chriſtian Duties, is ſo far above</l>
+                  <l>Them all, by wiſhing, and by being Kind,</l>
+                  <l>By having Bad and Good ſtill in our Mind,</l>
+                  <l>For all Mankind, ſo as to do them good,</l>
+                  <l>Praying, as to our very ſelves we wou'd,</l>
+                  <lg>
+                     <l>Wiſhing the welfare of the Souls of men,</l>
+                     <l>Bearing a meek Deportment towards them,</l>
+                     <l>To have a fellow-feeling of all you ken,</l>
+                  </lg>
+                  <l>So as to mourn with thoſe that mourn, and weep,</l>
+                  <l>And to rejoice with them that Joy, and ſleep;</l>
+                  <pb n="38" facs="tcp:45812:21"/>
+                  <l>Not apt to cenſure; apter to Believe</l>
+                  <l>A good Report, not given to Deceive,</l>
+                  <l>With ſly Hypocriſie, and falſe Pretence,</l>
+                  <l>But always ſpeaking plain, and real Senſe.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>An Enemy to ſuch there cannot be,</l>
+                  <l>Which Loves, and Prays, and Bleſſes as they ſee,</l>
+                  <l>When they him brawl at, and likewiſe do Curſe,</l>
+                  <l>Yet cannot conquer, tho' they grow much worſe,</l>
+                  <l>The more they hate, the more is his deſire</l>
+                  <l>Them to reclaim, and quench the raging Fire:</l>
+                  <l>He knows 'tis what his Lord has done before</l>
+                  <l>For all, who lov'd till they could hate no more;</l>
+                  <l>In doing which he doth but imitate</l>
+                  <l>His Lord, and alſo Saints which ne'er did hate.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>Who in diſdain of all the Scoffing Crew,</l>
+                  <l>Doth ſtill his Duty, giving all their due,</l>
+                  <l>In ſpight of Spight it ſelf, and all that Jeer'd,</l>
+                  <l>Tho' much deſpiſed, Heaven-ward he Stear'd</l>
+                  <l>His Courſe with patience onwards ſtill he goes,</l>
+                  <l>Arriving there in ſpight of all his Foes.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <lg>
+                     <l>This Chriſt has done, and this he do's command</l>
+                     <l>All People that do Liſt in his own Band,</l>
+                     <l>That to their Promiſe firſt they always ſtand,</l>
+                  </lg>
+                  <l>And in that order, and array to move,</l>
+                  <l>All armed with Patience, and unfeigned Love,</l>
+                  <l>Being aſſured of a Victory,</l>
+                  <l>Againſt their Foes, whether they live or dye,</l>
+                  <l>If in this World we do all here forgive,</l>
+                  <l>As we in th' next have always hopes to live;</l>
+                  <l>Then by ſo doing we may get to Heaven,</l>
+                  <l>If that our En'm'es be by us forgiv'n;</l>
+                  <l>But if they be not as we daily pray</l>
+                  <l>In our Lord's form, which we ſhould often ſay,</l>
+                  <l>Then we are Lyars, and no Truth is in</l>
+                  <l>Us, but in th' very Pray'r we daily ſin.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="39" facs="tcp:45812:21"/>
+                  <head>(5.)</head>
+                  <l>Beſides all this, all <hi>Chriſtians</hi> ſhould be</l>
+                  <l>Both kind, and good in all Sincerity,</l>
+                  <l>And muſt be forward alſo to do good</l>
+                  <l>To th' Souls and Bodies of their Neighbourhood.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6.)</head>
+                  <l>All ſhould be ready for to cure the Grief,</l>
+                  <l>To teach the Ignorant, and give Relief,</l>
+                  <l>T' encourage Vertue, where they find it weak,</l>
+                  <l>Letting their own Example chiefly ſpeak.</l>
+               </lg>
+               <lg n="7">
+                  <head>(7.)</head>
+                  <l>Are any Hungry, or elſe under Pain,</l>
+                  <l>Naked, or Sick? Oh! let them not Complain,</l>
+                  <l>But Feed, and Cloath, and Heal them, if ſo be</l>
+                  <l>Thou canſt relieve them in ſuch Miſery;</l>
+                  <l>If not, however let them never want</l>
+                  <l>Thoſe Pray'rs of thine, tho' they be mean and ſcant.</l>
+               </lg>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="40" facs="tcp:45812:22"/>
+               <head>CHAP. XIII.</head>
+               <argument>
+                  <p>
+                     <hi>(1.) <hi>Alms-giving.</hi> (2.)</hi> How. <hi>(3.)</hi> The Time when. <hi>(4.)</hi> And to Whom. <hi>(5.)</hi> Of Lending. <hi>(6.)</hi> Of Libe<g ref="char:EOLhyphen"/>rality. <hi>(7) <hi>Charity</hi>
+                     </hi> with reſpect to Credit. <hi>(8.)</hi> The Rule of Charity. <hi>(9.)</hi> Of Peace-making. <hi>(10.)</hi> Going to Law. <hi>(11.)</hi> Self-denyal. <hi>(12.)</hi> Pray for Grace to perform all Duties. <hi>(13.)</hi> The Danger of Neglecting thoſe Duties.</p>
+               </argument>
+               <p>
+                  <figure>
+                     <figDesc>Charity personified holding children</figDesc>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>BY <hi>Charity</hi> is further underſtood,</l>
+                  <l>Thy doing to thy Neighbour ſo much good,</l>
+                  <l>As to promote his Intereſt, and Gain,</l>
+                  <l>Or elſe your Love to God is but in vain;</l>
+                  <l>Hence giving to the Poor is always juſt,</l>
+                  <l>A Charity divine, which do you muſt,</l>
+                  <pb n="41" facs="tcp:45812:22"/>
+                  <l>For who'll believe that Man doth love his Mak'r,</l>
+                  <l>Who will not let the Poor be a partak'r</l>
+                  <lg>
+                     <l>Of what God gives him, and ſo not deny</l>
+                     <l>To try his <hi>Faith,</hi> and prove his <hi>Charity,</hi>
+                     </l>
+                     <l>Since ſome have Riches, others Poverty;</l>
+                  </lg>
+                  <l>For what you give, you give not Man, but God;</l>
+                  <l>It's He that brings the Poor Man to the Rod.</l>
+                  <l>The <hi>Beggar</hi> had been Rich, not made to try,</l>
+                  <l>Had God not thus ordain'd a Charity.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Therefore when e'er thou giv'ſt here thy Alms,</l>
+                  <l>Do it without Reluctancy, or Qualms.</l>
+                  <l>God loves an Hearty Giver, let then none</l>
+                  <l>In giving his Good Things, him ſore bemoan;</l>
+                  <l>For giving much, God is Security,</l>
+                  <l>And will reward him, ſince he cannot Lye:</l>
+                  <l>Nor let him think, by Giving, he ſhall want,</l>
+                  <l>No! God being juſt, and true, will not recant,</l>
+                  <l>But on the contrary, ſo much increaſe</l>
+                  <l>His Riches, Holineſs, and preſent Peace.</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <lg>
+                     <l>What e'er thou giv'ſt, then give without delay,</l>
+                     <l>And to the ſore diſtreſſed do not ſay,</l>
+                     <l>
+                        <hi>I'm buſie now, I'll do't another Day.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Who knows if then thou wilt be in that mind,</l>
+                     <l>Or he thy Soul may in the Body find,</l>
+                     <l>For when one's asked, to Give is doubly kind,</l>
+                  </lg>
+                  <l>Delays are dangerous, the Poor may be</l>
+                  <l>Famiſh'd with a long-winded Charity.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>Make a good choiſe of thoſe to whom you give,</l>
+                  <l>Beſtow on ſuch as cannot work to live,</l>
+                  <l>Or thoſe oppreſſed with Families ſo great,</l>
+                  <l>Which with their Labour cannot get to eat,</l>
+                  <l>Much leſs to Cloath them, groaning then alone,</l>
+                  <l>Few being ſo good, as him for to bemoan.</l>
+                  <l>He! ſuch as he your <hi>Charity</hi> doth crave,</l>
+                  <l>Begging your Hands to prop him from the Grave.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="42" facs="tcp:45812:23"/>
+                  <head>(5.)</head>
+                  <l>Others perhaps may want, but not ſo much,</l>
+                  <l>It's meer <hi>Charity</hi> to Lend to ſuch:</l>
+                  <l>And when thou Lendeſt, lend it then ſo Free,</l>
+                  <l>
+                     <hi>Intreſt</hi> agrees not with True <hi>Charity,</hi>
+                  </l>
+                  <l>But if thy Debtor can't at preſent pay,</l>
+                  <l>Do not him dun, but with ſome patience ſtay,</l>
+                  <l>Till that he can: If able never he be,</l>
+                  <l>Forgive him then as God will do to thee.</l>
+               </lg>
+               <lg n="6">
+                  <head>(6.)</head>
+                  <lg>
+                     <l>In Giving <hi>Alms,</hi> be liberal and free,</l>
+                     <l>Or elſe thou only Banters, and ſhalt ſee</l>
+                     <l>Thy Gift with Charity doth not agree.</l>
+                  </lg>
+                  <l>What now thou doſt not uſe, thou muſt beſtow,</l>
+                  <l>A Stream when more than full, doth overflow,</l>
+                  <l>And ſo ſhouldſt thou, keep juſt enough for Uſe;</l>
+                  <l>If thou keeps more, thou doſt but that Abuſe.</l>
+                  <l>If that in <hi>Charity</hi> thy Gift's but ſmall,</l>
+                  <l>'Tis not a little, ſince 'tis almoſt all.</l>
+               </lg>
+               <lg n="7">
+                  <head>(7.)</head>
+                  <l>Of <hi>Charity</hi> there is an other ſort,</l>
+                  <l>That of thy <hi>Neighbour</hi> thou doſt well report,</l>
+                  <l>His good Name injur'd, ſee with ſome Defence</l>
+                  <l>Thou vindicate his Dove-like Innocence.</l>
+                  <l>Do not the Tales (Ill Fame may tell) believe,</l>
+                  <l>And if thou know'ſt him faulty, yet relieve</l>
+                  <l>Him, and his Secrets ſee thou not reveal,</l>
+                  <l>Tho' infamous, and publick, them conceal;</l>
+                  <l>Joyn not the Noiſy Scandal with thy Voice,</l>
+                  <l>But let an harmleſs Silence be thy Choice.</l>
+               </lg>
+               <lg n="8">
+                  <head>(8.)</head>
+                  <l>The Golden Rule obſerve, and always do</l>
+                  <l>Juſt as you would your ſelf be done unto,</l>
+                  <l>For to Receive, no doubt thou hadſt a mind,</l>
+                  <l>In thy Neceſſity, therefore be kind.</l>
+                  <lg>
+                     <l>I doubt not neither but thou doſt thy Name</l>
+                     <l>Deſire to be preſerv'd from Slander, Blame,</l>
+                     <l>And all the Injuries of Cruel Fame.</l>
+                  </lg>
+                  <l>Therefore all Men by thee as do thou wouldſt,</l>
+                  <l>E'en ſo to all thy Neighbours do thou ſhouldſt.</l>
+               </lg>
+               <lg n="9">
+                  <pb n="43" facs="tcp:45812:23"/>
+                  <head>(9.)</head>
+                  <l>Be always <hi>Peace-maker</hi> in any Strife,</l>
+                  <l>'Tis one of the beſt Offices of Life.</l>
+               </lg>
+               <lg n="10">
+                  <head>(10.)</head>
+                  <l>Go not to Law with any, nor invade</l>
+                  <l>His Properties; eſcape the wrangling Trade:</l>
+                  <l>And if thy Cauſe muſt needs come to the Bar,</l>
+                  <l>Be not in ſuch a caſe as many are,</l>
+                  <lg>
+                     <l>Meer Enemies, but very calmly hear</l>
+                     <l>The Event, then whether thou'rt caſt, or clear,</l>
+                     <l>Let none thy Boaſtings, or thy Murmurs hear.</l>
+                  </lg>
+                  <lg>
+                     <l>'Tis true, we cannot love them, nor forgive</l>
+                     <l>Our Enemies, and wiſh them well to live,</l>
+                     <l>Much leſs their Wants, then as we ought relieve.</l>
+                  </lg>
+               </lg>
+               <lg n="11">
+                  <head>(11.)</head>
+                  <l>Strugle we muſt, and with a bitter trial,</l>
+                  <l>To bear the Croſs, and learn Self-denyal;</l>
+                  <l>And ſo we muſt deny, and muſt withſtand</l>
+                  <l>Our ſelves, if we'll obey our Lord's command,</l>
+                  <lg>
+                     <l>As his Croſs to take up, and bear the Shame,</l>
+                     <l>Which he endured for his moſt Holy Name,</l>
+                     <l>So we as Chriſtians muſt do the ſame.</l>
+                  </lg>
+                  <l>Wherefore rejoice when that comes to your turn</l>
+                  <l>To ſuffer, better drown in Tears than burn</l>
+                  <l>In <hi>Hell</hi> with the Rich Glutton, for to lie</l>
+                  <l>Tormented there to all Eternity.</l>
+               </lg>
+               <lg n="12">
+                  <head>(12.)</head>
+                  <l>Now then thy War begins ſubſcribe the Liſt,</l>
+                  <l>Reſolve to do thy Duty, and Reſiſt</l>
+                  <lg>
+                     <l>Thy own Corruptions, make inceſſant Prayer</l>
+                     <l>To God, that he for Chriſt's ſake thee would ſpare,</l>
+                     <l>Grace ſufficient to maintain the War,</l>
+                  </lg>
+                  <l>Or elſe thy feeble Soul will quickly yield</l>
+                  <l>To Satan cowardly; and quit the Field.</l>
+               </lg>
+               <lg n="13">
+                  <head>(13.)</head>
+                  <l>Oh quickly, quickly then thy ſelf apply</l>
+                  <l>To thy whole Duty, leſt Sinning thou dye.</l>
+                  <l>And now thy ſelf often to Prayer betake,</l>
+                  <l>Imploring Mercy for thy Saviour' ſake;</l>
+                  <pb n="44" facs="tcp:45812:24"/>
+                  <l>Uſe theſe ſhort Forms, which are herein preſcrib'd,</l>
+                  <l>Be Earneſt, and thou ſhalt not be deny'd:</l>
+                  <l>What monſtrous Hazards doſt thou undergo,</l>
+                  <l>Which ventures on in Sin, which will bring wo.</l>
+                  <l>Therefore thy Duty know, and now begin,</l>
+                  <l>Leave thy delight in Error, and in Sin;</l>
+                  <lg>
+                     <l>Defer not thy whole Duty day by day,</l>
+                     <l>But unto God, for Chriſt's ſake, always Pray,</l>
+                     <l>U<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing thoſe Means preſcribed in thy Way.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="prayers">
+               <head>
+                  <hi>PRAYERS. (1.)</hi> For Pardon. <hi>(2.)</hi> For Grace. <hi>(3.)</hi> For Comfort. <hi>(4.)</hi> For ſeveral Graces. <hi>(5.)</hi> The Lord's Prayer.</head>
+               <p>
+                  <figure>
+                     <figDesc>church service</figDesc>
+                     <q>our Father.</q>
+                  </figure>
+               </p>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <lg>
+                     <l>THou <hi>Lord</hi> of Mercy, to thee now I Pray,</l>
+                     <l>Let my Requeſt be heard; do not ſay Nay,</l>
+                     <l>That all my griev'ous Sins be done away.</l>
+                  </lg>
+                  <pb n="45" facs="tcp:45812:24"/>
+                  <l>I am a Sinner, Lord, thou know'ſt full well,</l>
+                  <l>And Duties owe to Thee, who doth excel</l>
+                  <l>In Goodneſs, and in Kindneſs evermore,</l>
+                  <l>Tho' I am much behind, and in thy Score.</l>
+                  <l>But if thou haſt ſuch Mercy behind ſtill</l>
+                  <l>For me, then make me to fulfil thy Will;</l>
+                  <l>And thou, O Lord, do all my Sins forget,</l>
+                  <l>And let them not on my account be ſet,</l>
+                  <l>Leſt my Miſdeeds at length ſhould ſo prevail,</l>
+                  <l>If them thou mark'ſt, then my Soul will fail,</l>
+                  <l>And ſink by that ſad weight of its own Fate,</l>
+                  <l>For ever baniſhed from that bleſſed State,</l>
+                  <l>Even from that bleſſed Company, and Place,</l>
+                  <l>Unleſs thou doſt reſtore me by thy Grace.</l>
+                  <l>Thy Mercies, Lord, are manifold, thou'rt kind,</l>
+                  <l>Let me, Oh! then one Branch but only find,</l>
+                  <l>That I may, e'er I ſink, lay hold thereon,</l>
+                  <l>On thy great Goodneſs, and Salvation.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>Now grant good God, I may both hear, and ſee,</l>
+                  <l>To do all things well-pleaſing unto thee,</l>
+                  <l>Be pleas'd to give but to my weak Faith, Strength,</l>
+                  <l>That I to Happineſs may come at length.</l>
+                  <l>Teach me good God, and ſo give me thy Grace</l>
+                  <l>To walk aright, that I may ſee thy Face;</l>
+                  <l>Take from me Clouds of Sin which do ſo blind</l>
+                  <l>My Sight, by making clean my Heart and Mind,</l>
+                  <l>Leſt into that unfathomed Pit I fall,</l>
+                  <l>And there for thy kind help in vain do call,</l>
+                  <l>Where being ſtung with Vengeance of thy hate,</l>
+                  <l>I call, and call, but yet alas too late:</l>
+                  <l>Convert me then, O Lord, betimes, leſt I</l>
+                  <l>Be overtaken with thy Wrath, and dye:</l>
+                  <lg>
+                     <l>I am a Stranger here on Earth, incline</l>
+                     <l>My Heart to what is good, and ſo d vine,</l>
+                     <l>That I with thee and others there may ſhine.</l>
+                  </lg>
+               </lg>
+               <lg n="3">
+                  <head>(.3)</head>
+                  <l>Why, why, O Lord, doſt thou thy Face ſo h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Making me row againſt the Wind and Tide?</l>
+                  <pb n="46" facs="tcp:45812:25"/>
+                  <l>In vain, in vain, my grief and labour's all,</l>
+                  <l>If thou, dear Lord, doſt not return, and call</l>
+                  <l>Me to thy ſelf with longing in my Soul,</l>
+                  <l>Letting no Sorrow ever me Controul.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>Give me both Faith, and Hope, and alſo Love,</l>
+                  <l>Humility, with Fear to thee Above,</l>
+                  <l>Truſt, Gratitude, Contrition, to be Mild,</l>
+                  <l>Contrite, Chaſte, Temp'rate, to be thy Child,</l>
+                  <l>So Diligent, Juſt alſo, and Content,</l>
+                  <l>With Perſeverance, ne'er for to Repent,</l>
+                  <l>Of doing good to all, that I may be</l>
+                  <l>Bleſſed with Angels to Eternity.</l>
+               </lg>
+               <lg n="5">
+                  <head>(5.)</head>
+                  <l>Theſe Six Petit'ons grant me, Lord, I pray,</l>
+                  <l>Which I do put to thee e'en day by day,</l>
+                  <l n="1">1. Firſt that thy Name may ſanctified be.</l>
+                  <l n="2">2. Thy Kingdom come, when fitting thou doſt ſee.</l>
+                  <l n="3">3. Thy Will be done in Earth as Heaven is.</l>
+                  <l n="4">4. This Day our daily Bread give, and it bleſs.</l>
+                  <lg>
+                     <l n="5">5. Our Sins forgive, as we forgive all men,</l>
+                     <l n="5">6. And lead us not into Temptation then.</l>
+                     <l>Thy Kingdom, Power for ever be; Amen.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div type="prayers">
+               <pb n="47" facs="tcp:45812:25"/>
+               <head>
+                  <hi>(1.)</hi> Thanksgivings. <hi>(2.)</hi> For Deliverance in Trouble. <hi>(3.)</hi> Ejaculations for the Lord's Supper. <hi>(4.)</hi> Before you Receive it. <hi>(5.)</hi> After Receiving.</head>
+               <lg n="1">
+                  <head>(1.)</head>
+                  <l>YES I will ever, O God, thy Name praiſe,</l>
+                  <l>Proclaiming it on high, my Voice will raiſe,</l>
+                  <l>Whilſt I have Breath, I will ſtil Speak, and Sing,</l>
+                  <l>My Praiſes all unto my Lord, and King,</l>
+                  <l>Wiſhing my ſelf all Voice, and Tongue to have,</l>
+                  <l>To ſing thy Praiſes, and for me to crave</l>
+                  <lg>
+                     <l>A Bleſſing which thou always doſt beſtow</l>
+                     <l>On humble Penitents here now below;</l>
+                     <l>Oh that my Thanks could then but equal grow:</l>
+                  </lg>
+                  <l>Bleſs'd then for ever bleſs'd be thy Name,</l>
+                  <l>Thou Fountain from whence all our Bleſſing came.</l>
+               </lg>
+               <lg n="2">
+                  <head>(2.)</head>
+                  <l>O God, for Mercy I on thee do call,</l>
+                  <l>My Soul do's truſt alone in thee for all</l>
+                  <l>True Shelter; to thy Wings, O Lord, I run,</l>
+                  <l>O cover me, or elſe I am undone:</l>
+                  <l>Thou art my Hope, and Refuge alſo ſtill,</l>
+                  <l>Deliver me, that I may do thy Will:</l>
+                  <l>Preſerve my Soul, for unto thee it flies,</l>
+                  <l>O look upon me with thy Holy Eyes.</l>
+                  <l>With mine I'll look up, till the Tears have wore</l>
+                  <l>My Sight away, and I here be no no more.</l>
+                  <l>O pitty, pitty my diſtreſſed Eſtate,</l>
+                  <l>Leave me not wholly deſolate, nor Hate</l>
+                  <l>Me, for I have here no true Friend but thee;</l>
+                  <l>O pitty, whither, whither ſhall I flee?</l>
+               </lg>
+               <lg n="3">
+                  <head>(3.)</head>
+                  <l>I am not worthy that under my Roof</l>
+                  <l>Thou Lord ſhouldſt come; Can I bear thy Reproof?</l>
+                  <pb n="48" facs="tcp:45812:26"/>
+                  <l>For I have Sinn'd, if thou ſhouldſt now mind</l>
+                  <l>With rigour to correct for what's behind,</l>
+                  <l>Who could abide? But Mercy is in ſtore</l>
+                  <l>Reſerved for me, and ſo for others more,</l>
+                  <l>Thro' thy beloved Son; my Truſt ſhall then</l>
+                  <l>B' in Him that took away the Sins of Men.</l>
+                  <l>Oh ſee and hear the Cry of his dear Blood,</l>
+                  <l>Which I with others plunge into that Flood.</l>
+               </lg>
+               <lg n="4">
+                  <head>(4.)</head>
+                  <l>The Symbols now which I m about to uſe,</l>
+                  <l>Eternal Life by them do not refuſe,</l>
+                  <l>To give to me as promiſed I'll take,</l>
+               </lg>
+               <lg n="5">
+                  <head>(5.)</head>
+                  <l>The Bread, and Cup, and ſo thy Paſſion make</l>
+                  <l>Known unto all, thy Sitting on the Throne,</l>
+                  <l>For ever bleſſed Thou great Three in One.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:45812:26"/>
+            <head>BOOKS Printed and Sold by <hi>J. Bradford.</hi>
+            </head>
+            <p>
+               <hi>THE Complaint of Engliſh Subjects,</hi> deliver'd in Two Parts. The firſt, is the Complaint of the Poor, Middle and Meaneſt ſort of Subjects, concerning their Bodily Aſſiſtance. The ſecond is, The true <hi>Chriſtians</hi> Complaint againſt <hi>Vice</hi> and <hi>Wickedneſs,</hi> for the good of their Souls health. Wherein alſo is ſet forth the Late prodigious Growth of <hi>Atheiſm, Errors</hi> and <hi>Vice.</hi> With a Call to Repentance. As alſo how needful it is in theſe Times, for every one of us, firſt of all, to look into our Hearts, and endeavour to Amend what is there amiſs. And laſtly, a brief Diſcourſe concerning our late Un<g ref="char:EOLhyphen"/>fruitful and Cold Summers. As alſo, what is the Real Cauſe of it, by way of Oppoſition to the Opinion of Aſtrologers. By <hi>Richard Newnam</hi> of <hi>Tiverton</hi> in <hi>De<g ref="char:EOLhyphen"/>vonſhire.</hi> Price 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>A Gold Chain of Four Links,</hi> to draw poor Souls to their deſired Habitation: Or the Four Laſt Things briefly diſcourſed of, <hi>viz. Death, Judgment, Heaven</hi> and <hi>Hell.</hi> By the late Reverend Dr. <hi>Stevens.</hi> Price 2 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>The Path-Way to Perfection:</hi> Shewing the Duty of Chil<g ref="char:EOLhyphen"/>dren to their Parents; With the Promiſed Bleſſings which attend thoſe that perform it, <hi>&amp;c.</hi> To which is added, A ſhort Perſwaſive to the Duty of <hi>Prayer.</hi> By <hi>J. Stevens,</hi> D. D. Price 2 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>The Pious Man's Kallender:</hi> Or, Chriſtian Thoughts for every Day of the Week. 1. Of Faith. 2. Of the End for which Man was Created. 3. Of Death. 4. Of Judgment. 5. Of Heaven. 6. Of Hell. 7. Of the Preſence of GOD. Alſo, an Inſtruction how to prepare to Dye. Concluded with a brief Paraphraſe of the <hi>Lord's Prayer,</hi> in Verſe, ſuitable to the occaſion. Publiſhed for the Benefit of the Poor. By <hi>William Ioie,</hi> Miniſter of <hi>Sarrat</hi> in <hi>Hartfordſhire</hi> Price 2 <hi>d.</hi>
+            </p>
+            <p>A brief Account of the moſt Remarkable Prodigies which happen'd at the Birth, in the Life, and at the Death of our Lord and Saviour <hi>Ieſus Chriſt.</hi> As alſo, a Lively Deſcription of the Perſon of <hi>Chriſt.</hi> In a large broad Sheet. Price 2 <hi>d.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
